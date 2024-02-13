@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Shekhar3132
 - 👀 I’m interested in any type of SQL and PLSQL coding
 - 🌱 I’m currently learning and working on Oracle SQL and PLSQL language.
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Shekhar3132/Shekhar3132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
